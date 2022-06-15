@@ -1,6 +1,9 @@
 # Projecto para Digofat
 
-Pagina web de **DIGOFAT** => www.digofat.com.ar
+Creacion de pagina web para **DIGOFAT** => www.digofat.com.ar
+
+
+## Encabezado nivel 2
 
 Historia <br>
 Productos <br>
