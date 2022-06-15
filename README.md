@@ -3,8 +3,8 @@
 Creacion de pagina web para **DIGOFAT** => www.digofat.com.ar
 
 
-## Encabezado nivel 2
+## Paginas 
 
-index.html <br>
-productos.html <br>
-elements.html
+index: Historia de la marca<br>
+productos: Catalogo con categorias <br>
+local: Fotos del local
