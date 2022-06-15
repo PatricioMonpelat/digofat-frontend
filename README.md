@@ -2,6 +2,6 @@ Projecto para Digofat:
 
 Pagina web de la marca.
 
-Historia
+Historia <br>
 Productos
 Local
