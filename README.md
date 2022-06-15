@@ -1,3 +1,7 @@
-Projecto para Digofat
+Projecto para Digofat:
 
-Pagina web con catalogo de productos
+Pagina web de la marca.
+
+Historia
+Productos
+Local
